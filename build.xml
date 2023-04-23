@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ====================================================================== 
+     Apr. 22, 2023                                                   
+
+     DesktopTimer    
+     A minimal stopwatch for the desktop.
+                   
+     bp                                                                
+     ====================================================================== -->
+<project name="DesktopTimer" default="compile">
+    <description>
+    	A minimal stopwatch for the desktop.
+    </description>
+
+
+    <target name="compile">
+        
+    </target>
+
+</project>
